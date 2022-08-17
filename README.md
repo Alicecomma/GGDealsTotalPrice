@@ -13,7 +13,7 @@ Show current- and historical low cost of bundle/wishlist items
 # Images
 ## Bundles
 ![image](https://user-images.githubusercontent.com/4662406/185158692-b3b3d09d-47a5-4c4b-af07-a41e41223025.png)
- - Individual items that are not in your collection are summed and displayed on the top right of the bundle, to easily compare to the tier costs
+ - Historical low of individual items that are not in your collection are summed and displayed on the top right of the bundle, to easily compare to the tier costs
 
 ## Wishlist
 ![image](https://user-images.githubusercontent.com/4662406/185159070-86969724-c37e-4b10-ae42-ab9dd0986544.png)
