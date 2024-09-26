@@ -59,7 +59,10 @@ sumB = function(selector) {
 }
 
 if (window.location.toString().includes("/wishlist/")) {
-  sumHL('.wishlist-item');
+  sumHL('.game-list-item');
+}
+if (window.location.toString().includes("/alerts/")) {
+  sumHL('.game-list-item');
 }
 else if (window.location.toString().includes("/bundle/")) {
   sumB('.game-item-in-bundle');
